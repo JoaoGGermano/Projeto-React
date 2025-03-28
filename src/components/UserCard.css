@@ -1,0 +1,21 @@
+/* Define o estilo do cartão */
+.user-card {
+    width: 200px;  /* Define a largura */
+    padding: 20px;  /* Adiciona espaçamento interno */
+    margin: 10px;  /* Adiciona margem */
+    background-color: #18b5e4;  /* Define um fundo  */
+    text-align: center;  /* Centraliza o texto */
+    font-family: Arial, sans-serif; /* Define a fonte */
+  }
+  
+  /* Estiliza o título do nome */
+  .user-card h2 {
+    color: #333;
+  }
+  
+  /* Estiliza o texto da idade */
+  .user-card p {
+    color: #750808; 
+    font-size: 16px; /* Define o tamanho da fonte */
+  }
+  
