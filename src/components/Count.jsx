@@ -15,7 +15,7 @@ function Count() {
   function Resetar(){
     setCount(count == 0);
   }
- 
+
   return ( 
     <div> 
       <h2>Contador: {count}</h2> 
